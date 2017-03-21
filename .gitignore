@@ -2,3 +2,5 @@
 /TestLibraryMain/TestLibraryMain/obj
 /TestLibraryMain/.vs/TestLibraryMain/v14/*.suo
 /TestLibraryMain/packages
+/TestLibraryMain/OtherTestLibrary/bin
+/TestLibraryMain/OtherTestLibrary/obj
