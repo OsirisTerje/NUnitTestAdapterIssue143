@@ -4,3 +4,6 @@
 /TestLibraryMain/packages
 /TestLibraryMain/OtherTestLibrary/bin
 /TestLibraryMain/OtherTestLibrary/obj
+/SimulatedPrecompiledCommonLibrary/.vs/SimulatedPrecompiledCommonLibrary/v14/*.suo
+/SimulatedPrecompiledCommonLibrary/SimulatedPrecompiledCommonLibrary/bin
+/SimulatedPrecompiledCommonLibrary/SimulatedPrecompiledCommonLibrary/obj
