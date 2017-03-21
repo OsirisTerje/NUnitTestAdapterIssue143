@@ -7,7 +7,11 @@ using System.Threading.Tasks;
 
 namespace TestLibraryMain
 {
-  public class InheritsFromOtherDummyTest : OtherDummyTest
-  {
-  }
+    //public class InheritsFromOtherDummyTest : OtherDummyTest
+    //{
+    //}
+
+    public class InheritsFromOtherDummyTestOnly : OnlyHereInOtherTest
+    {
+    }
 }
