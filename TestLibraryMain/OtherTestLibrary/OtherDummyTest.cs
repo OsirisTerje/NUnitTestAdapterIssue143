@@ -1,5 +1,5 @@
 ﻿using NUnit.Framework;
-using SimulatedPrecompiledCommonLibrary;
+//using SimulatedPrecompiledCommonLibrary;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace OtherTestLibrary
 {
   [TestFixture]
-  public class OtherDummyTest : IntegrationTestBaseClass
+  public class OtherDummyTest // : IntegrationTestBaseClass
   {
     [Test]
     public void FalseTest()
