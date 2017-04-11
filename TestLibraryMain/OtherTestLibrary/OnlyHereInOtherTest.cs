@@ -7,7 +7,7 @@ using NUnit.Framework;
 
 namespace OtherTestLibrary
 {
-    public class OnlyHereInOtherTest
+    public abstract class OnlyHereInOtherTest
     {
         [Test]
         public void FalseTestWithNoInherit()
